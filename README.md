@@ -1,37 +1,44 @@
 # PlanMATE 🧭
 
-**PlanMATE** is an intuitive and interactive travel planning application that allows users to seamlessly search, organize, and visualize destinations using the Google Maps API. Designed for both casual travelers and serious explorers, PlanMATE simplifies the process of creating detailed itineraries and mapping travel plans — all within a single, responsive web interface.
+**PlanMATE** is an interactive web application designed to simplify travel planning. With a clean interface and dynamic Google Maps integration, it allows users to search for destinations, add stops, and visualize their entire trip on a live map — all in one place.
 
 ---
 
-## 📌 Features
+## ✨ Features
 
-- 🔍 **Search for Locations** – Find destinations by name using Google Maps.
-- ➕ **Add Points of Interest** – Select and add multiple locations to your trip.
-- 🗺️ **Interactive Map** – View and navigate trip locations dynamically.
-- 🧾 **Upcoming Features**:
-  - Save and retrieve travel plans
-  - AI-assisted itinerary suggestions
-  - Budget estimation tools
+- 🔍 **Smart Search**  
+  Find any place, city, or landmark using Google Maps autocomplete.
+
+- ➕ **Multi-Stop Itinerary**  
+  Add multiple destinations to your travel plan and see them all at once.
+
+- 🗺️ **Interactive Mapping**  
+  View your entire route with real-time map updates and zoom/pan support.
+
+- 🧭 **Responsive UI**  
+  Fully responsive layout optimized for desktop and mobile.
+
+- ♻️ **Reset / Clear Plan**  
+  Easily reset your selections to start fresh.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category        | Technology Used              |
-|----------------|------------------------------|
-| Frontend        | React, JavaScript, HTML5, CSS3 |
-| Mapping         | Google Maps JavaScript API   |
-| State Management| React Hooks (useState, useEffect) |
-| Routing         | React Router DOM             |
-| Version Control | Git & GitHub                 |
-| Future Additions| Firebase, OpenAI API, Tailwind CSS |
+| Purpose           | Technology                  |
+|-------------------|-----------------------------|
+| UI Framework      | React                       |
+| Maps Integration  | Google Maps JavaScript API  |
+| Styling           | CSS                         |
+| Routing           | React Router DOM            |
+| State Management  | React Hooks (useState)      |
+| Version Control   | Git, GitHub                 |
 
 ---
 
 ## 🚀 Getting Started
 
-Follow these steps to run the application locally:
+To run PlanMATE locally on your machine:
 
 ### 1. Clone the Repository
 
