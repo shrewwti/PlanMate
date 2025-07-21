@@ -156,8 +156,7 @@ function Hero({ heroRef }) {
           {/* <Link
             target="_blank"
             rel="noopener noreferrer"
-            to="https://www.buymeacoffee.com/satendra03"
-          >
+           
             <Button variant="secondary">Buy Me a Coffee</Button>
           </Link> */}
         </div>

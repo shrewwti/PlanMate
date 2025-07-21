@@ -14,27 +14,27 @@ function Footer({ footerRef }) {
     {
       name: "GitHub",
       icon: <AiFillGithub />,
-      link: "https://github.com/satendra03",
+      link: "https://github.com/shrewwti",
     },
     {
       name: "Linkedin",
       icon: <AiFillLinkedin />,
-      link: "https://linkedin.com/in/connect-satendra",
+      
     },
     {
       name: "Instagram",
       icon: <AiFillInstagram />,
-      link: "https://instagram.com/_satendra_03",
+      link: 
     },
     {
       name: "Mail",
       icon: <AiFillMail />,
-      link: "mailto:satendrakumarparteti.work@gmail.com",
+      link: "mailto:iamshrutikashyap11@gmail.com",
     },
     {
       name: "Twitter",
       icon: <AiFillTwitterCircle />,
-      link: "https://twitter.com/satendra_03",
+      
     },
   ];
   return (
@@ -46,7 +46,7 @@ function Footer({ footerRef }) {
         JourneyJolt &copy; 2025
       </p>
       {/* <p className="sm:font-semibold sm:text-lg  bg-gradient-to-b from-primary/90 to-primary/60 bg-clip-text text-transparent">
-        Made by Satendra Kumar Parteti
+        Made by Shruti LkASHYAP
       </p> */}
       {/* <div className="logos flex items-center justify-center gap-5 w-full">
         {socialIcons.map((item, index) => {
